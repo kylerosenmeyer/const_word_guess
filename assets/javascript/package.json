@@ -1,0 +1,15 @@
+{
+  "name": "const_word_guess",
+  "version": "1.0.0",
+  "description": "Word Guessing Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Rosenmeyer",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "superheroes": "^2.0.0"
+  }
+}
