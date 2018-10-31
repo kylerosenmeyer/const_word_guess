@@ -20,8 +20,8 @@ Screenshots of the working app:
 
 log.txt Example showing one output from each type of search.
 
-![Game Screen Shot](/images/game_screen.png)
+![Game Screen Shot](/assets/images/game_screen.png)
 
 User walkthrough video:
 
-[Click Here to View/Download](/images/game_walkthrough.webm)
+[Click Here to View/Download](/assets/images/game_walkthrough.webm)
