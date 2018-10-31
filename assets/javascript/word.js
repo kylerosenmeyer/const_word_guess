@@ -1,5 +1,6 @@
 var Letter = require("./letter.js")
 
+//This is the Word Constructor
 var Word = function(string) {
 
     var currentWord = []
