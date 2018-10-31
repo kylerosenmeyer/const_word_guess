@@ -1,7 +1,8 @@
-var Letter = require("./letter.js"),
-    currentWord = []
+var Letter = require("./letter.js")
 
 var Word = function(string) {
+
+    var currentWord = []
 
     this.string = string
 
