@@ -1,6 +1,6 @@
 # const_word_guess
 
-Coding Bootcamp HW10 by Kyle Rosenmeyer
+Coding Bootcamp HW11 by Kyle Rosenmeyer
 
 **Constructor Word Guess** is a node game app built by Kyle Rosenmeyer. It draws random words from the superheros npm module  and places them into a guessing game.
 
